@@ -1,0 +1,15 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+MIMEText
+json
+smtplib
+collections
+datetime
+streamlit
+plotly
+time
+tensorflow
+random
+
